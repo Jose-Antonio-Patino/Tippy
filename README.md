@@ -4,7 +4,7 @@
 
 Submitted by: **Jose Antonio Patino**
 
-Time spent: **1** hours spent so far
+Time spent: *1* hours spent so far
 
 ## User Stories
 
